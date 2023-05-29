@@ -1,0 +1,8 @@
+{
+    "Name": "Nombre",
+    "Type": "Tipo",
+    "Region": "Region",
+    "Notes": "Notas",
+    "Date": "Fecha_cultivo",
+    "Height": "Altura" 
+}
